@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JuliaT47/ReactTaskOrginiser/static/css/main.b25e8066.css",
+    "main.js": "/JuliaT47/ReactTaskOrginiser/static/js/main.a610e689.js",
+    "index.html": "/JuliaT47/ReactTaskOrginiser/index.html",
+    "main.b25e8066.css.map": "/JuliaT47/ReactTaskOrginiser/static/css/main.b25e8066.css.map",
+    "main.a610e689.js.map": "/JuliaT47/ReactTaskOrginiser/static/js/main.a610e689.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b25e8066.css",
+    "static/js/main.a610e689.js"
+  ]
+}
